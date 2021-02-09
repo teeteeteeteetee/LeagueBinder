@@ -1,0 +1,17 @@
+C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\bin\Debug\LeagueBinder.exe.config
+C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\bin\Debug\LeagueBinder.exe
+C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\bin\Debug\LeagueBinder.pdb
+C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\bin\Debug\LCUSharp.dll
+C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\bin\Debug\MetroFramework.Design.dll
+C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\bin\Debug\MetroFramework.dll
+C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\obj\Debug\LeagueBinder.csprojAssemblyReference.cache
+C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\obj\Debug\LeagueBinder.Main.resources
+C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\obj\Debug\LeagueBinder.Properties.Resources.resources
+C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\obj\Debug\LeagueBinder.csproj.GenerateResource.cache
+C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\obj\Debug\LeagueBinder.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\obj\Debug\LeagueBinder.csproj.CopyComplete
+C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\obj\Debug\LeagueBinder.exe
+C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\obj\Debug\LeagueBinder.pdb

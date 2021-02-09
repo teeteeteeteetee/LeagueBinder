@@ -7,12 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using MetroFramework;
 
 namespace LeagueBinder
 {
-    public partial class Form1 : Form
+    public partial class Main : MetroFramework.Forms.MetroForm
     {
-        public Form1()
+        public Main()
         {
             InitializeComponent();
         }
