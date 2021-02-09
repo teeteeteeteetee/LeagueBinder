@@ -14,3 +14,6 @@ C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\obj\Debug\LeagueBinder.cs
 C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\obj\Debug\LeagueBinder.csproj.CopyComplete
 C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\obj\Debug\LeagueBinder.exe
 C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\obj\Debug\LeagueBinder.pdb
+C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\bin\Debug\LCUSharp.dll
+C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\bin\Debug\LCUSharp.pdb
+C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\bin\Debug\websocket-sharp-core.dll
