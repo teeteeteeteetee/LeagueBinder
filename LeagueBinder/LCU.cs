@@ -37,6 +37,7 @@ namespace LeagueBinder
         public static LeagueClientApi League;
 
         HttpClient Client = new HttpClient();
+        DDragon DDragon = new DDragon();
 
         public async void Init()
         {
@@ -63,27 +64,19 @@ namespace LeagueBinder
 
         }
 
-        private async void OnChampionSelected(object sender, LeagueEvent e)
+        private void OnChampionSelected(object sender, LeagueEvent e)
         {
             // /lol-patch/v1/game-version
 
             if (e.Data.ToString() == "0") return;
 
-            var VersionJSON = JObject.Parse(PatchVersion);
-            string Version = (VersionJSON["branch"]).ToString().Replace("Releases/", "");
-
-            Console.WriteLine(Version);
             Console.WriteLine(e.Data.ToString());
-
-            //"https://ddragon.leagueoflegends.com/cdn/[VERSION].1/data/en_US/champion.json"
-            string response = await Client.GetStringAsync($"https://ddragon.leagueoflegends.com/cdn/{Version}.1/data/en_US/champion.json");
-            var RAWDATA = JObject.Parse(response);
-            foreach (JProperty item in RAWDATA["data"])
+            
+            var RAWDATACHAMPIONS = JObject.Parse(DDragon.GetChampions());
+            foreach (JProperty item in RAWDATACHAMPIONS["data"])
             {
                 Console.WriteLine(item);
             }
-            
-
         }
 
         public string GetVersion(LeagueClientApi League)

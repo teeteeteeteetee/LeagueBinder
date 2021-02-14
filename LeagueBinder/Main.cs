@@ -20,7 +20,7 @@ namespace LeagueBinder
 
         private void Main_Load(object sender, EventArgs e)
         {
-            LCU LCU = new LCU();
+
         }
     }
 }

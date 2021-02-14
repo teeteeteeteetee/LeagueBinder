@@ -17,3 +17,4 @@ C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\obj\Debug\LeagueBinder.pd
 C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\bin\Debug\LCUSharp.dll
 C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\bin\Debug\LCUSharp.pdb
 C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\bin\Debug\websocket-sharp-core.dll
+C:\Users\Martin\source\repos\LeagueBinder\LeagueBinder\obj\Debug\LeagueBinder.Updater.resources
